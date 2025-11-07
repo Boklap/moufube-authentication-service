@@ -1,0 +1,2 @@
+**variables**
+@resourcePath = .opencode/resource

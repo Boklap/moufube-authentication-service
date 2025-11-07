@@ -1,0 +1,28 @@
+- cmd
+	- main.go
+- internal
+	- domain
+		- entity
+		- value_object
+		- repository
+	- application
+		- use_case
+		- contracts
+		- service
+		- dto
+			- request
+			- response
+	- interface
+		- controller
+		- middleware
+		- route
+	- infrastructure
+	- config
+	- common
+		- util
+		- dto
+			- response
+				- success.go
+				- error.go
+		- constant
+		

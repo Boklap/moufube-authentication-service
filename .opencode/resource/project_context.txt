@@ -1,0 +1,7 @@
+**List of Agents**
+- {file:./project_structure.md} - @project_structure
+- {file:./coder.md} - @coder
+
+**Agents' Job**
+@project-structure - Handling the project structure foldering plan
+@coder  - Handling all the folder and file management also handling all the coding.
